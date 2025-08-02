@@ -2110,7 +2110,7 @@ select.error-border {
   color: #fff;
   padding: 0.6rem 1.2rem;
   border: none;
-  border-radius: 9px;
+  border-radius: 10px;
   cursor: pointer;
   transition: background 0.3s ease;
 }
